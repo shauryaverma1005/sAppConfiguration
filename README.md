@@ -1,4 +1,4 @@
-# sAppConfiguration
+# sApp Tool dependencies
 
 1. 1. Nodemon
 2. 2. Cloudinary
